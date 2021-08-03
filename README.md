@@ -22,9 +22,9 @@ To help refine your Python skills we recommend that you continue to code on a re
 
 ## Pandas Practice  
 
-A great deal of the Python you have learned uses Pandas as it is an integral part of the data science toolkit.  Just as it is prudent to continue practicing your Python skills, you should also incorporate Pandas into your practice in order to make the working with data in pandas more intuitive.  Following are some helpful resources to facilitate your practice.
+A great deal of the Python you have learned uses Pandas as it is an integral part of the data science toolkit.  Just as it is prudent to continue practicing your Python skills, you should also incorporate Pandas into your practice in order to make the working with data in pandas more intuitive.  Following are some helpful resources to facilitate your practice.  
 
-1.[100 Pandas Excercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
-2.[24 Useful Pandas Excercises](https://www.kaggle.com/icarofreire/pandas-24-useful-exercises-with-solutions)
-3.[Pandas Excercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)
-4.[100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)
+1.[100 Pandas Excercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)  
+2.[24 Useful Pandas Excercises](https://www.kaggle.com/icarofreire/pandas-24-useful-exercises-with-solutions)  
+3.[Pandas Excercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)  
+4.[100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)  
