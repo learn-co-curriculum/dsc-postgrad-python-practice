@@ -13,12 +13,13 @@ You will be able to:
 
 ## Python Practice   
 
-To help refine your Python skills we recommend that you continue to code on a regular basis.  It is a good idea to code a little every day to help to retain the knowledge you have gained.  There are many free resources out there, but here are a few that we feel are useful:
+To help refine your Python skills we recommend that you continue to code on a regular basis.  It is a good idea to code a little every day to help to retain the knowledge you have gained.  There are many free resources out there, but here are a few that we feel are useful:  
 
-1. [CodingBat](https://codingbat.com/python)
-2. [HackerRank](https://www.hackerrank.com/auth/signup?h_r=home&h_l=body_middle_left_button&h_v=1)
-3. [LeetCode](https://leetcode.com/)
-4. 
+1. [CodingBat](https://codingbat.com/python)  
+2. [HackerRank](https://www.hackerrank.com/auth/signup?h_r=home&h_l=body_middle_left_button&h_v=1)  
+3. [LeetCode](https://leetcode.com/)  
+4. [CodeWars](https://www.codewars.com/)  
+5. [Python Projects](https://data-flair.training/blogs/python-project-ideas/)  
 
 ## Pandas Practice  
 
@@ -28,3 +29,7 @@ A great deal of the Python you have learned uses Pandas as it is an integral par
 2.[24 Useful Pandas Excercises](https://www.kaggle.com/icarofreire/pandas-24-useful-exercises-with-solutions)  
 3.[Pandas Excercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)  
 4.[100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles)  
+
+## Summary  
+
+Learning Python is an ongoing process and you will be more successful in retaining the information you learn if you use it on a regular basis. Excercise your coding muscles by seeking out new problems to solve.
